@@ -79,4 +79,3 @@ if(choix==1)
     {V1.destructeur();  }
 else cout<<"Okay";
 return 0;}
-![Capture d'écran 2024-10-23 215424](https://github.com/user-attachments/assets/9f73f160-4887-45f4-a06f-a573634fbfd4)
